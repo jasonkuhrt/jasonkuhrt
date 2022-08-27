@@ -1,3 +1,3 @@
-### Howdy! 👋
+### Hey! 👋
 
 I am a developer passionate about system design, developer experience, static typing, and functional programming. Educated in design theory, practice, and social responsibility, I fell into programming through the portal of open source, Node.js, and GitHub. Over a decade later I find myself in love with TypeScript and working at Prisma, leading development on the Prisma Data Platform Control Plane. In my personal life, I sometimes work on open source projects, but closest to my heart are the backpacking trips I take my two boys on across the beautiful rugged Canadian wilderness! 🗻🇨🇦
